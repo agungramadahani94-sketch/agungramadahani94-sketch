@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Agung 👋<br><br>💻 Web Development Enthusiast<br><br>🔭 Currently working on: Building web applications and continuously improving my full-stack development skills. 🚀.<br>🌱 Learning Laravel, MySQL, Git & GitHub to improve my development skills.<br>🎯 Interested in building useful and user-friendly web applications.<br>🚀 Always learning, always growing.<br>✨ "Keep learning, keep building, and never stop improving."<br><br>🛠️ Tech Stack: HTML • CSS • JavaScript • PHP • Laravel • MySQL • GitHub
+Hello, I'm Agung 👋<br><br>💻 Full-Stack Developer in Progress<br><br>🔭 Currently working on: Building web applications and continuously improving my full-stack development skills. 🚀.<br>🌱 Learning Laravel, MySQL, Git & GitHub to improve my development skills.<br>🎯 Interested in building useful and user-friendly web applications.<br>🚀 Always learning, always growing.<br>✨ "Keep learning, keep building, and never stop improving."<br><br>🛠️ Tech Stack: HTML • CSS • JavaScript • PHP • Laravel • MySQL • GitHub
 
 
 ## 🌐 Socials:
